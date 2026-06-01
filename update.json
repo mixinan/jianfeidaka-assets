@@ -1,13 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.4.apk",
+  "versionCode": 5,
+  "versionName": "0.5",
+  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.5.apk",
   "releaseNotes": [
-    "新增全局体重统计功能",
-    "新增版本升级功能（在线检测更新）",
-    "捐助功能（点击Logo5次显示）",
-    "打卡列表快捷编辑",
-    "若干优化和bug修复"
+    "修复版本检查点击无反应的问题"
   ],
   "minVersionCode": 2,
   "forceUpdate": false
