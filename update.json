@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "downloadUrl": "http://120.55.98.247:8082/jianfeidaka-assets/weightloss-v0.7.apk",
+  "versionCode": 9,
+  "versionName": "0.9",
+  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.9.apk",
   "releaseNotes": [
-    "修复版本检查功能"
+    "切换到 GitHub CDN 检测更新"
   ],
   "minVersionCode": 2,
   "forceUpdate": false
