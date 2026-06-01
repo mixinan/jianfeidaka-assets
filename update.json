@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
   "versionName": "0.5",
-  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.5.apk",
+  "downloadUrl": "http://120.55.98.247:8082/jianfeidaka-assets/weightloss-v0.5.apk",
   "releaseNotes": [
     "修复版本检查点击无反应的问题"
   ],
