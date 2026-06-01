@@ -1,0 +1,12 @@
+{
+  "versionCode": 4,
+  "versionName": "0.4",
+  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.4.apk",
+  "releaseNotes": [
+    "2026-06-01: 新增全局体重统计功能",
+    "优化打卡页面交互",
+    "修复若干bug"
+  ],
+  "minVersionCode": 2,
+  "forceUpdate": false
+}
