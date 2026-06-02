@@ -1,9 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.2",
+  "versionCode": 14,
+  "versionName": "1.0.4",
   "releaseNotes": [
-    "🐛 修复备份恢复：修复 Gson 泛型丢失导致的 ClassCastException"
+    "🎨 新增打卡项颜色自定义取色器：支持 SV/Hue 自由选择，告别固定 7 色",
+    "🎯 颜色预设扩展：从 7 色扩展到 15 色，新增靛蓝/黄色/薄荷/珊瑚/棕色/天蓝/薰衣草/柠檬绿",
+    "💾 数据库升级到 v7：自动迁移现有数据，自定义颜色以新列存储",
+    "🔄 备份格式升级到 v3：兼容旧版 v2 备份，缺省字段自动视为未自定义颜色"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.0.2.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.0.4.apk",
   "apkSize": "3.2 MB"
 }
