@@ -1,10 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "downloadUrl": "https://raw.githubusercontent.com/mixinan/jianfeidaka-assets/main/apk/weightloss-v0.9.apk",
+  "versionCode": 12,
+  "versionName": "1.0.2",
   "releaseNotes": [
-    "切换到 GitHub CDN 检测更新"
+    "🐛 修复备份恢复：修复 Gson 泛型丢失导致的 ClassCastException"
   ],
-  "minVersionCode": 2,
-  "forceUpdate": false
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.0.2.apk",
+  "apkSize": "3.2 MB"
 }
