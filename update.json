@@ -1,14 +1,12 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.0",
+  "versionCode": 16,
+  "versionName": "1.1.1",
   "releaseNotes": [
-    "🎯 打卡频率自定义：每 N 天打卡 M 次（如每周 3 次、每两天 1 次），告别'每次 X 次'的怪表达",
-    "⚡ 频率快捷选项：每天 / 每两天 / 每三天 / 每周，一键搞定",
-    "💾 新建打卡项自动记忆上次选择的周期天数（DataStore 持久化）",
-    "🗓️ 周期快捷选项：1 个月 / 3 个月 / 半年 / 1 年 / 永久",
-    "🎨 打卡项颜色自定义取色器：支持 SV/Hue 自由选色，告别 7 色限制",
-    "📊 热力图与统计自动过滤非打卡日，按 effectiveTargetOnDate 精确展示"
+    "🐛 修复自定义开始时间滚轮选择无效:松手不刷新、关闭再打开粘上次位置、中心位置错位",
+    "✨ 自定义开始时间弹窗:顶部加实时时间预览,日期 chip 显示完整日期(今天 06-04 / 昨天 06-03)",
+    "✨ 选中时间晚于现在时弹 toast 提示,弹窗不消失,允许继续调整",
+    "✨ 关于页支持长按选词复制"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.1.0.apk",
-  "apkSize": "3.2 MB"
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.1.1.apk",
+  "apkSize": "3.4 MB"
 }
