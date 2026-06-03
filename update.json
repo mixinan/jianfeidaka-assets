@@ -1,12 +1,14 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.4",
+  "versionCode": 15,
+  "versionName": "1.1.0",
   "releaseNotes": [
-    "🎨 新增打卡项颜色自定义取色器：支持 SV/Hue 自由选择，告别固定 7 色",
-    "🎯 颜色预设扩展：从 7 色扩展到 15 色，新增靛蓝/黄色/薄荷/珊瑚/棕色/天蓝/薰衣草/柠檬绿",
-    "💾 数据库升级到 v7：自动迁移现有数据，自定义颜色以新列存储",
-    "🔄 备份格式升级到 v3：兼容旧版 v2 备份，缺省字段自动视为未自定义颜色"
+    "🎯 打卡频率自定义：每 N 天打卡 M 次（如每周 3 次、每两天 1 次），告别'每次 X 次'的怪表达",
+    "⚡ 频率快捷选项：每天 / 每两天 / 每三天 / 每周，一键搞定",
+    "💾 新建打卡项自动记忆上次选择的周期天数（DataStore 持久化）",
+    "🗓️ 周期快捷选项：1 个月 / 3 个月 / 半年 / 1 年 / 永久",
+    "🎨 打卡项颜色自定义取色器：支持 SV/Hue 自由选色，告别 7 色限制",
+    "📊 热力图与统计自动过滤非打卡日，按 effectiveTargetOnDate 精确展示"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.0.4.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.1.0.apk",
   "apkSize": "3.2 MB"
 }
