@@ -1,12 +1,11 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.1",
+  "versionCode": 17,
+  "versionName": "2026.06.04",
   "releaseNotes": [
-    "🐛 修复自定义开始时间滚轮选择无效:松手不刷新、关闭再打开粘上次位置、中心位置错位",
-    "✨ 自定义开始时间弹窗:顶部加实时时间预览,日期 chip 显示完整日期(今天 06-04 / 昨天 06-03)",
-    "✨ 选中时间晚于现在时弹 toast 提示,弹窗不消失,允许继续调整",
-    "✨ 关于页支持长按选词复制"
+    "✨ 关于页面新增「意见反馈」入口，作者联系方式移至二级页面，让作品展示更纯粹",
+    "✨ 版本升级支持查看更新内容，有新版本时可先了解更新详情再决定是否安装",
+    "🔄 版本号改用日期格式（如 2026.06.04），后续发布更直观"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v1.1.1.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.04.apk",
   "apkSize": "3.4 MB"
 }
