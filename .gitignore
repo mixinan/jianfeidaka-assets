@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Android Studio / Gradle
+*.iml
+/local.properties
+/.idea
+.gradle
+build/
+*/build/
+
+# Keystore
+*.jks
+*.keystore
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IntelliJ
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
