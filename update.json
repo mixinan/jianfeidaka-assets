@@ -1,11 +1,10 @@
 {
-  "versionCode": 17,
-  "versionName": "2026.06.04",
-  "releaseNotes": [
-    "✨ 关于页面新增「意见反馈」入口，作者联系方式移至二级页面，让作品展示更纯粹",
-    "✨ 版本升级支持查看更新内容，有新版本时可先了解更新详情再决定是否安装",
-    "🔄 版本号改用日期格式（如 2026.06.04），后续发布更直观"
-  ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.04.apk",
-  "apkSize": "3.4 MB"
-}
+    "versionCode": 20260605,
+    "versionName": "2026.06.05",
+    "releaseNotes": [
+      "🐛 饼图未打卡部分改用灰色",
+      "✨ 图标搜索优化：支持搜索字符预览，点击直接选择文字图标"
+    ],
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.05.apk",
+    "apkSize": "3.4 MB"
+  }
