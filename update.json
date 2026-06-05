@@ -1,10 +1,10 @@
 {
-  "versionCode": 20260607,
-  "versionName": "2026.06.07",
+  "versionCode": 20260608,
+  "versionName": "2026.06.08",
   "releaseNotes": [
     "🐛 饼图未打卡部分改用灰色",
     "✨ 图标搜索优化：支持搜索字符预览"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@v2026.06.07/apk/weightloss-v2026.06.07.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@v2026.06.07/apk/weightloss-v2026.06.08.apk",
   "apkSize": "3.4 MB"
 }
