@@ -1,13 +1,16 @@
 {
-  "versionCode": 20260611,
-  "versionName": "2026.06.11",
+  "versionCode": 20260614,
+  "versionName": "2026.06.14",
   "releaseNotes": [
-    "✨ 新增打卡计划：把多个打卡项组合成训练/饮食计划，按周几或间隔自动循环",
-    "✨ 新增练一休一支持：手动指定日期列表，灵活适配各种训练节奏",
-    "✨ 新增打卡仓库：统一管理所有打卡项（含已删除），多选批量操作",
-    "✨ 日历新增计划日小圆点提示，一眼看出哪天有计划",
-    "🐛 修复打卡页垂直滚动嵌套崩溃"
+    "✨ 打卡不再限制打卡日，任何日期都可打卡",
+    "✨ 精简图标库，提升编译速度",
+    "✨ 运动健身图标扩充至24个",
+    "✨ 每周一次打卡项：打卡后本周剩余天数自动隐藏",
+    "✨ 日历视图：选中日期改为小圆点标识，打卡日改为深绿色",
+    "✨ 计划编辑器打卡项改为多行显示",
+    "🐛 修复从仓库选择打卡项后数量显示为0的bug",
+    "🐛 修复计划编辑器打开时显示新建而非编辑的bug"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@v2026.06.11/apk/weightloss-v2026.06.11.apk",
-  "apkSize": "5.0 MB"
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@v2026.06.14/apk/weightloss-v2026.06.14.apk",
+  "apkSize": "3.5 MB"
 }
