@@ -11,6 +11,6 @@
     "🐛 修复从仓库选择打卡项后数量显示为0的bug",
     "🐛 修复计划编辑器打开时显示新建而非编辑的bug"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@v2026.06.14/apk/weightloss-v2026.06.14.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.14.apk",
   "apkSize": "3.5 MB"
 }
