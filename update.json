@@ -1,8 +1,12 @@
 {
-  "versionCode": 20260615,
-  "versionName": "2026.06.15",
+  "versionCode": 20260616,
+  "versionName": "2026.06.16",
   "releaseNotes": [
-    "✨ 版本检测和分享功能使用 @main 分支，旧版本也能检测到新版本",
+    "✨ 饼图筛选状态持久化，切换页面后保持筛选",
+    "✨ 版本升级弹窗显示完整 update.json 信息",
+    "✨ 下载地址可点击跳转浏览器下载",
+    "✨ 分享地址改为动态构建，无需手动更新",
+    "✨ 版本检测使用 @main 分支，旧版本也能检测到新版本",
     "✨ 打卡不再限制打卡日，任何日期都可打卡",
     "✨ 精简图标库，提升编译速度",
     "✨ 运动健身图标扩充至24个",
@@ -12,6 +16,6 @@
     "🐛 修复从仓库选择打卡项后数量显示为0的bug",
     "🐛 修复计划编辑器打开时显示新建而非编辑的bug"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.15.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.16.apk",
   "apkSize": "3.5 MB"
 }
