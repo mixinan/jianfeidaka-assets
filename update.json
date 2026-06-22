@@ -1,10 +1,12 @@
 {
-  "versionCode": 20260618,
-  "versionName": "2026.06.18",
+  "versionCode": 20260621,
+  "versionName": "2026.06.21",
   "releaseNotes": [
-    "✨ 断食达到目标时长后通知提醒，此后每小时提醒一次，防止忘记结束断食",
-    "🐛 修复版本升级点击安装后无效的bug"
+    "✨ 打卡页饼图筛选状态自动保存，下次打开仍是上次的筛选",
+    "✨ 检查更新弹窗升级：手动点击版本升级始终重新查询，并展示完整版本信息",
+    "✨ 新增\"已是最新版本\"和\"检查失败\"弹窗，下载地址支持点击跳转",
+    "🐛 修复日历周视图下点击历史日期会误跳转回本周的问题"
   ],
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.18.apk",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/mixinan/jianfeidaka-assets@main/apk/weightloss-v2026.06.21.apk",
   "apkSize": "3.5 MB"
 }
